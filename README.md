@@ -16,6 +16,8 @@ A python script designed to utilise the Spotify API via the Spotipy module to ge
   
 ### Scientific Viewer Output
   <img width="695" alt="Screenshot 2021-07-12 at 10 10 47 AM" src="https://user-images.githubusercontent.com/8018018/125232187-ba951a80-e2f9-11eb-9f10-45beff7bef23.png">
+  <img width="698" alt="Screenshot 2021-07-12 at 10 08 36 AM" src="https://user-images.githubusercontent.com/8018018/125237551-7e66b780-e303-11eb-8105-9b02ec9290c9.png">
+
 <h3> Playlist on Spotify</h3>
 <img width="1046" alt="Screenshot 2021-07-12 at 10 09 37 AM" src="https://user-images.githubusercontent.com/8018018/125232283-e7493200-e2f9-11eb-81a1-e865393d95bc.png">
 
